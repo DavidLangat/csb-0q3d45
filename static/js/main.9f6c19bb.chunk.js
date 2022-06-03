@@ -1,0 +1,2 @@
+(this["webpackJsonpnetflix-clone"]=this["webpackJsonpnetflix-clone"]||[]).push([[0],{20:function(e,t,c){},25:function(e,t,c){"use strict";c.r(t);var n=c(0),r=c(10),s=(c(20),c(8),c(38)),i=c(2);function o(){return Object(i.jsx)("div",{className:"header",children:Object(i.jsx)(s.a,{})})}function j(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)(o,{})})}var a=document.getElementById("root");Object(r.createRoot)(a).render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(j,{})}))}},[[25,1,2]]]);
+//# sourceMappingURL=main.9f6c19bb.chunk.js.map

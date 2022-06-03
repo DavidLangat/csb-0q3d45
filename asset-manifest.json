@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fandavies.github.io/csb-0q3d45/static/css/main.7812c00c.chunk.css",
+    "main.js": "https://fandavies.github.io/csb-0q3d45/static/js/main.9f6c19bb.chunk.js",
+    "main.js.map": "https://fandavies.github.io/csb-0q3d45/static/js/main.9f6c19bb.chunk.js.map",
+    "runtime-main.js": "https://fandavies.github.io/csb-0q3d45/static/js/runtime-main.7a410b20.js",
+    "runtime-main.js.map": "https://fandavies.github.io/csb-0q3d45/static/js/runtime-main.7a410b20.js.map",
+    "static/js/2.84b15139.chunk.js": "https://fandavies.github.io/csb-0q3d45/static/js/2.84b15139.chunk.js",
+    "static/js/2.84b15139.chunk.js.map": "https://fandavies.github.io/csb-0q3d45/static/js/2.84b15139.chunk.js.map",
+    "index.html": "https://fandavies.github.io/csb-0q3d45/index.html",
+    "static/css/main.7812c00c.chunk.css.map": "https://fandavies.github.io/csb-0q3d45/static/css/main.7812c00c.chunk.css.map",
+    "static/js/2.84b15139.chunk.js.LICENSE.txt": "https://fandavies.github.io/csb-0q3d45/static/js/2.84b15139.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a410b20.js",
+    "static/js/2.84b15139.chunk.js",
+    "static/css/main.7812c00c.chunk.css",
+    "static/js/main.9f6c19bb.chunk.js"
+  ]
+}
